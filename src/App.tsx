@@ -9,6 +9,7 @@ export default function App() {
             <div className="NAVI fixed left-0 top-0 z-50 w-full h-[60px] flex bg-black/20">
 
             {/* КОНТЕНТНАЯ ЗОНА */}
+            <p>asd</p>
 
 
 
